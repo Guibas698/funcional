@@ -1,2 +1,2 @@
 # funcional
-questões de programação funcional com resposta
+trabalho de linguagens de programação
